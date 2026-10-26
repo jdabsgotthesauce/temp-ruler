@@ -1,2 +1,2 @@
-allow2use=true
+allow2use=false
 display_message="Thank you for using. Contact Jollibe Dablo for access"
